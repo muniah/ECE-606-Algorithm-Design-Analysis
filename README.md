@@ -3,7 +3,7 @@
 In this repository I have added the solutions of the assignments given in the course ECE 606: Algorithm Design and Analysis that I took in Fall 2024. They might not be all correct and I have removed the questions as I don't have the right to put them in this repository.
 The topics involved :
 
-- Intro to the course; intro to Python 3; Expressing algorithms
+- Intro to Python 3; Expressing algorithms
 
 - Data structures - graphs, trees, lists.
 
